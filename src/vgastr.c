@@ -1,4 +1,3 @@
-
 void _strwrite(char* string)
 {
     char* p_strdst = (char*)(0xb8000);
